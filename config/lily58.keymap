@@ -9,8 +9,8 @@
 #include <dt-bindings/zmk/keys.h>
 
 &mt {
-    flavor = "tap-unless-interrupted";
-    tapping-term-ms = <250>;
+    flavor = "balanced";
+    tapping-term-ms = <175>;
     quick-tap-ms = <175>;
     require-prior-idle-ms = <100>;
     hold-trigger-key-positions = <25 26 27 28 31 32 33 34 53 54>;
