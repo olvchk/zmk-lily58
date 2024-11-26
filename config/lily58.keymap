@@ -10,7 +10,7 @@
 
 &mt {
     flavor = "balanced";
-    tapping-term-ms = <300>;
+    tapping-term-ms = <225>;
     quick-tap-ms = <175>;
     require-prior-idle-ms = <100>;
     hold-trigger-key-positions = <25 26 27 28 31 32 33 34 53 54>;
