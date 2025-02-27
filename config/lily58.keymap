@@ -97,7 +97,7 @@
 
             bindings = <
 &trans  &trans        &trans        &trans            &trans          &trans                                    &trans         &trans        &trans     &trans         &trans             &trans
-&trans  &trans        &trans        &trans            &trans          &trans                                    &kp PAGE_UP    &kp RG(LEFT)  &kp UP     &kp RG(RIGHT)  &kp C_VOLUME_UP    &kp C_BRIGHTNESS_INC
+&trans  &trans        &trans        &trans            &trans          &trans                                    &kp PAGE_UP    &kp RA(LEFT)  &kp UP     &kp RA(RIGHT)  &kp C_VOLUME_UP    &kp C_BRIGHTNESS_INC
 &trans  &trans        &trans        &trans            &trans          &trans                                    &kp PAGE_DOWN  &kp LEFT      &kp DOWN   &kp RIGHT      &kp C_VOLUME_DOWN  &kp C_BRIGHTNESS_DEC
 &trans  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2      &bt BT_CLR_ALL  &trans        &trans       &trans         &trans         &kp C_PREV    &kp C_PP   &kp C_NEXT     &kp K_MUTE         &trans
                                     &kp LEFT_CONTROL  &kp LEFT_ALT    &kp LEFT_GUI  &kp SPACE    &kp BACKSPACE  &kp ENTER      &kp RALT      &kp RCTRL
